@@ -58,7 +58,7 @@ a {
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus, {
+.contacts-link:focus {
     color: #404bbf;
 }
 
@@ -115,10 +115,11 @@ a {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
 .content-list {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .content-title {
