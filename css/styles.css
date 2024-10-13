@@ -118,8 +118,9 @@ a {
         color: #2e2f42;
 }
 
-.content-list {
-    background-color: #FFFFFF;
+.content-list,
+.content-item {
+    background-color: #fff;
 }
 
 .content-title {
